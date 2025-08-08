@@ -32,7 +32,7 @@ All image layers must be part of a group. Otherwise the plugin won't work. Also,
 
 When your GIMP session is set up correctly, go to Filter -> CombiMerge. You can then choose the output directory and output format for your images. Click "Ok" to start the process. CombiMerge will then take one layer from each group, merge them together and export the image. This is done for every possible combination so in the above setting, you will get 3&times;4&times;2=24 images. The images are stored in a folder called CombiMergeImgs which is created in the chosen output directory.
 
-Naming of the resulting images is done by appending the layer names, separated with a "_". You can enforce specific naming conventions by naming your layers appropriately. In the above example, you will get one image called "layerA1_layerB1_layerC1.png" (in case you choose png when exporting).
+Naming of the resulting images is done by appending the layer names, separated with a "_". You can enforce specific naming conventions by naming your layers appropriately. For example, in the above setting, you will get an image called "layerA1_layerB1_layerC1.png", and image called "layerA1_layerB1_layerC2.png" and so on (in case you choose png when exporting).
 
 Check the two example .xcf-files to see how you have to set up your GIMP session and how CombiMerge exactly works. (Fyi example02.xcf shows how you can literally get every combination from an arbitrary set of layers. You just have to set up your group structure in an appropriate way.)
 
