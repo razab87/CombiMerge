@@ -1,6 +1,6 @@
 # CombiMerge
 
-CombiMerge is a python plugin for GIMP 3.0 (requires python3). When you have a GIMP session with several layers, CombiMerge merges them together in all possible combinations and exports the results as images. To make it work properly, you have to group your image layers in a specific way. For a detailed description of how it works, see the "Usage" section below.
+CombiMerge is a python plugin for GIMP 3.0 (requires python3). When you have a GIMP session with several layers, CombiMerge merges them together in all possible combinations and exports the results as images. To make it work properly, you have to group your layers in a specific way. For a detailed description of how it works, see the "Usage" section below.
 
 Tested on Linux Mint 22 but should also work on other Linux distros as well as on Windows and macOS. (For Linux users, it might be necessary to use a flatpak install of GIMP to run python plugins properly.)
 
