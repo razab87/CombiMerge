@@ -28,7 +28,7 @@ You need a GIMP session with several groups where each group may contain several
 --- layerC1 <br>
 --- layerC2 <br>
 
-All image layers must be part of a group. Otherwise the plugin won't work. Also, nested groups are not allowed (i.e. no groups which contain other groups).
+All image layers must be part of a group. Nested groups are not allowed (i.e. no groups which contain other groups).
 
 When your GIMP session is set up correctly, go to Filter -> CombiMerge. You can then choose the output directory and output format for your images. Click "Ok" to start the process. CombiMerge will then take one layer from each group, merge them together and export the image. This is done for every possible combination so in the above setting, you will get 3&times;4&times;2=24 images. The images are stored in a folder called CombiMergeImgs which is created in the chosen output directory.
 
