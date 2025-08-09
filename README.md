@@ -13,7 +13,7 @@ Tested on Linux Mint 22 but should also work on other Linux distros as well as o
 
 **Usage**
 
-You need a GIMP session with several groups where each group may contain several image layers. CombiMerge then takes one image layer from each group, merges them together and exports. This is done for all possible combinations. For example, your GIMP session might have the following structure:
+You need a GIMP session with several groups where each group may contain several image layers. CombiMerge then takes one image layer from each group, merges them together and exports the image. This is done for all possible combinations. For example, your GIMP session might have the following structure:
 
 \- GroupA <br>
 --- layerA1 <br>
