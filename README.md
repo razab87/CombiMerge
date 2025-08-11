@@ -7,7 +7,7 @@ Tested on Linux Mint 22 but should also work on other Linux distros as well as o
 **Installation**
 
 - Download the .zip-file via the green button.
-- Extract the .zip and copy the folder CombiMerge-1-0/combi_merge to your .../GIMP/3.0/plug-ins folder.
+- Extract the .zip files and copy the folder CombiMerge-1-0/combi_merge to your .../GIMP/3.0/plug-ins folder.
 - The .zip also contains two example .xcf-files showing how to properly set up a GIMP session so that CombiMerge can be applied .
 
 
