@@ -39,6 +39,6 @@ Check the two example .xcf-files to see how you have to set up your GIMP session
 
 **Note**
 
-The execution of CombiMerge may take some time since it is a combinatorial process and GIMP's image export can be time-consuming. For example, only 5 groups with 5 layers each will result in 5⁵=3125 images to be exported. On my system, CombiMerge takes around 30 minutes for this task. Still much faster than doing all this by hand ofc. (My system: AMD Ryzen 5 1600, GeForce GTX 1060 6GB, 16GB RAM, SSD hard drive.)
+The execution of CombiMerge may take some time since it is a combinatorial process and GIMP's image export can be time-consuming. For example, only 5 groups with 5 layers each will result in 5⁵=3125 images to be exported. On my system, CombiMerge takes around 30 minutes for this task. Still much faster than doing all this by hand. (My system: AMD Ryzen 5 1600, GeForce GTX 1060 6GB, 16GB RAM, SSD hard drive.)
 
 While the process is running, do not change anything in your GIMP session (except for cancelling the process if desired).
