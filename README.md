@@ -34,7 +34,7 @@ When your GIMP session is set up correctly, go to Filter -> CombiMerge. You can 
 
 Naming of the resulting images is done by appending the layer names, separated by a "_". You can enforce specific naming conventions by naming your layers appropriately. For example, in the above setting, you will get an image called "layerA1_layerB1_layerC1.png", an image called "layerA1_layerB1_layerC2.png" and so on (in case you choose png when exporting).
 
-Check the two example .xcf-files to see how you have to set up your GIMP session and how CombiMerge exactly works.
+Check the two example .xcf-files to see how you have to set up your GIMP session.
 
 
 **Note**
