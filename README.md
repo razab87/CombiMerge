@@ -30,7 +30,7 @@ You need a GIMP session with several groups where each group may contain several
 
 All image layers must be part of a group. Nested groups are not allowed (i.e. no groups which contain other groups).
 
-When your GIMP session is set up correctly, go to Filter -> CombiMerge. You can then choose the output directory and output format for your images. Click "Ok" to start the process. Since layers are merged in every possible combination, the above setting will result in 3&times;4&times;2=24 images for example. The images are stored in a folder called CombiMergeImgs which is created in the chosen output directory.
+When your GIMP session is set up correctly, go to Filter -> CombiMerge. You can then choose the output directory and output format for your images. Click "Ok" to start the process. Since layers are merged in every combination, the above setting will result in 3&times;4&times;2=24 images for example. The images are stored in a folder called CombiMergeImgs which is created in the chosen output directory.
 
 Naming of the resulting images is done by appending the layer names, separated by a "_". You can enforce specific naming conventions by naming your layers appropriately. For example, in the above setting, you will get an image called "layerA1_layerB1_layerC1.png", an image called "layerA1_layerB1_layerC2.png" and so on (in case you choose png when exporting).
 
