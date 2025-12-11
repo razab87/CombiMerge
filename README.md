@@ -8,7 +8,9 @@ Tested on Linux Mint 22 but should also work on other Linux distros as well as o
 
 - Download the .zip-file from the [release section](https://github.com/razab87/CombiMerge/releases/tag/v1.0).
 - Extract the .zip-files and copy the folder "combi_merge" found in CombiMerge-1-0/ to your .../GIMP/3.0/plug-ins folder.
-- The .zip also contains two example .xcf-files showing how to properly set up a GIMP session so that CombiMerge can be applied .
+- In GIMP, CombiMerge should then be visible under "Filters". (If not, it may be necessary to make the .py file from combi_merge/ executable, using chmod on linux or equivalent methods on other platforms).
+- The .zip also contains two example .xcf-files showing how to properly set up a GIMP session so that CombiMerge can be applied.
+- Note: When downloading the plugin via the green "Code" button, you may have to make the .py file executable before using it.
 
 
 **Usage**
